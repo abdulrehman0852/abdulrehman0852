@@ -1,3 +1,6 @@
+<h1 align="center">
+    <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=tektur&weight=900&size=30&duration=3000&pause=500&center=true&vCenter=true&width=445&height=60&lines=Hi+There!+%F0%9F%91%8B;I'm+AbdulRehman!)](https://git.io/typing-svg)" />
+</h1>
 # 💫 About Me:
 👋 Hi, I'm AbdulRehman!<br>🚀 Aspiring Data Scientist | Computer Science Student<br><br>📊 Passionate about Data Analysis, Machine Learning, and Financial Market Prediction.<br><br>💻 Proficient in Python, Pandas, NumPy, Matplotlib, and Seaborn.<br><br>🔍 Exploring SaaS and platform-based business models.<br><br>📈 Working on Karachi Stock Exchange (KSE) analysis with Django and Streamlit.<br><br>🌱 Always eager to learn, build, and innovate.<br><br>📫 Let's connect and collaborate!
 
