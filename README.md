@@ -3,15 +3,11 @@
 </h1>
 
 # 💫 About Me:
-👋 Hi, I'm AbdulRehman!  
-🚀 Aspiring Data Scientist | Computer Science Student  
+Hi, I'm AbdulRehman.  
+Aspiring Cybersecurity professional and Game Developer | Computer Science Student  
 
-📊 Passionate about Data Analysis, Machine Learning, and Financial Market Prediction.  
-💻 Proficient in Python, Pandas, NumPy, Matplotlib, and Seaborn.  
-🔍 Exploring SaaS and platform-based business models.  
-📈 Working on Karachi Stock Exchange (KSE) analysis with Django and Streamlit.  
-🌱 Always eager to learn, build, and innovate.  
-📫 Let's connect and collaborate!
+I am passionate about exploring security practices and building interactive Unity projects. I enjoy learning by working on practical projects that combine technical precision with creativity. Currently, I am expanding my skills in Cybersecurity concepts and game development through hands-on projects.  
+Always eager to learn, innovate, and collaborate.  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/realabdulrehman/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/iamrealabdulrehman)
